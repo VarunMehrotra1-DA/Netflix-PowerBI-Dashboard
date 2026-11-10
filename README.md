@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 An interactive Power BI dashboard analyzing over 8,000+ Netflix titles to uncover trends in content types, genres, release years, and geographic distribution.
 
-## Data Column
+## Data Columns
 a. id: A unique count of this ID would be useful while calculating and understanding trends. Example: The number of movies released in 2020 would simply be a unique count of the ID field.
 
 b. release_year: At the outset, it seems that it includes movies from 1953 to 2022, i.e. 70 years of data. But on closer inspection, we notice that some years are missing e.g. 1955, 1957. 
@@ -23,7 +23,7 @@ i. imdb_votes: This is the number of people who voted on IMDb for a movie or sho
 
 j. The dataset has 5283 records and this data includes both movies and shows.
 
-## Problem Statement
+## Problem Statements
 As an analyst, your goal is to help the NETFLIX derive insights from the data. These insights will help them take decisions w.r.t. TV & Movie Shows. Eventually it will help them to increase the number of new movies and TV shows. Your manager asks you to perform the following operations and get answers to key questions. 
 
 1. Which was the best movie and TV show overall in the last 50 years?
